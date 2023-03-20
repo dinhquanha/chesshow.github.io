@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+    color:white;
+}
+p {
+    font-size: 20px;
+    font-style:oblique;
+}
+img{
+    height: 300px;
+    width: 500px;
+}
+.BOARD {
+    height: 300px;
+    width: 300px;
+}
